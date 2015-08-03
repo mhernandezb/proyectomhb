@@ -7,14 +7,14 @@ body {
 }
 
 #page-wrap {
-  margin:2% auto; 
+  margin:2% auto;
   color: white;
 }
 
 #page-wrap > .main{
-  border: 1px solid #999; 
+  border: 1px solid #999;
   padding: 1%;
-  margin-bottom: 1px; 
+  margin-bottom: 1px;
   color:black;
 }
 
@@ -32,6 +32,6 @@ footer{
   text-align: center;
 }
 
-nav span{ 
+nav span{
   margin: 0px 10px 0px 0px;
 }
